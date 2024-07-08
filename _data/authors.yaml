@@ -10,7 +10,7 @@ Abhijna:
       icon: "fas fa-fw fa-envelope-square"
       url: "abhijnakalbahg@gmail.com"
     - label: "Github"
-      icon: "fas fa-fw fa-github"
+      icon: "fas fa-fw fa-github-square"
       url: "https://github.com/AbhijnaKalbhag"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
