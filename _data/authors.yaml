@@ -1,0 +1,17 @@
+# /_data/authors.yml
+
+Abhijna:
+  name        : "Abhijna Kalbhag"
+  bio         : "It's happenging in your head haary"
+  avatar      : "/assets/images/cat.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "abhijnakalbahg@gmail.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://thewhip.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/extravagantman"
+
