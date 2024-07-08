@@ -4,5 +4,7 @@ plugins:
   
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Specify the version
 minimal_mistakes_skin: "dark" # Options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+author: Abhijna
+
 
 
