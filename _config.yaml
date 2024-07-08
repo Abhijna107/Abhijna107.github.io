@@ -1,16 +1,51 @@
-# theme: jekyll-theme-leap-day
 plugins:
   - jekyll-include-cache
   - jekyll-read-time
   
-remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Specify the version
-minimal_mistakes_skin: "dark" # Options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-author: Abhijna
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+author:
+  name: "Abhijna"
+  avatar: "/assets/images/cat.jpg"
+  bio: "This is my **Ecommerce** portfolio." # Note: Markdown is allowed
+  location: "Somewhere"
+  # links:
+  #   - label: "Made Mistakes"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://mademistakes.com"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/mmistakes"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/mmistakes"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/mmistakes"
 
 title: "Ecommerce Portfolio"
 repository: "Abhijna107/Abhijna107.github.io"
 logo: "/assets/images/cat.jpg"
 
-
-
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # Pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_label: "My Table of Contents"
+      toc_icon: "cog"
+      author_profile: true
