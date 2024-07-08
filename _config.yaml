@@ -1,10 +1,16 @@
 # theme: jekyll-theme-leap-day
 plugins:
   - jekyll-include-cache
+  - jekyll-read-time
   
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Specify the version
 minimal_mistakes_skin: "dark" # Options: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 author: Abhijna
+
+title: "Ecommerce Portfolio"
+repository: "Abhijna107/Abhijna107.github.io"
+logo: "/assets/images/cat.jpg"
+
 
 
 
