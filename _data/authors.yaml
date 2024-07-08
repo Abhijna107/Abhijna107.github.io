@@ -2,12 +2,16 @@
 
 Abhijna:
   name        : "Abhijna Kalbhag"
-  bio         : "It's happenging in your head haary"
+  bio         : "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?"
   avatar      : "/assets/images/cat.jpg"
+  location    : "Hubli, India"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "abhijnakalbahg@gmail.com"
+    - label: "Github"
+      icon: "fas fa-fw fa-github"
+      url: "https://github.com/AbhijnaKalbhag"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://thewhip.com"
