@@ -4,15 +4,15 @@ plugins:
   
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
-author:
-  name: "Abhijna"
-  avatar: "/assets/images/cat.jpg"
-  bio: "This is my **Ecommerce** portfolio." # Note: Markdown is allowed
-  location: "Hubli, India"
-   links:
-    - label: "Github"
-      icon: "fas fa-fw fa-github"
-      url: "https://github.com/AbhijnaKalbhag"
+author: Abhijna
+  # name: "Abhijna"
+  # avatar: "/assets/images/cat.jpg"
+  # bio: "This is my **Ecommerce** portfolio." # Note: Markdown is allowed
+  # location: "Hubli, India"
+  #  links:
+  #   - label: "Github"
+  #     icon: "fas fa-fw fa-github"
+  #     url: "https://github.com/AbhijnaKalbhag"
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://twitter.com/mmistakes"
