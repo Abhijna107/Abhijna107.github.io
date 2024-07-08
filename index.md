@@ -63,27 +63,27 @@ The motivation behind this portfolio is to bridge the gap between theoretical al
 ## References
 
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 0.9em;">
-<strong><em>[1] Mailchimp. (2024). *E-commerce Website*. Available at: https://mailchimp.com/marketing-glossary/ecommerce-website/ (Accessed: 7 July 2024).</em></strong>
+<strong><em>[1] Mailchimp. (2024). *E-commerce Website*. Available at: https://mailchimp.com/marketing-glossary/ecommerce-website/ (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[2] Wikipedia. (2024). *Tarjan's strongly connected components algorithm*. Available at: https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm (Accessed: 7 July 2024).</em></strong>
+<strong><em>[2] Wikipedia. (2024). *Tarjan's strongly connected components algorithm*. Available at: https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[3] Wikipedia. (2024). *Treap*. Available at: https://en.wikipedia.org/wiki/Treap (Accessed: 7 July 2024).</em></strong>
+<strong><em>[3] Wikipedia. (2024). *Treap*. Available at: https://en.wikipedia.org/wiki/Treap (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[4] GoMage. (2024). *Architecture of eCommerce*. Available at: https://www.gomage.com/blog/architecture-of-ecommerce/ (Accessed: 7 July 2024).</em></strong>
+<strong><em>[4] GoMage. (2024). *Architecture of eCommerce*. Available at: https://www.gomage.com/blog/architecture-of-ecommerce/ (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[5] Technische Universität München. (n.d.). *Ford-Fulkerson Algorithm*. Available at: https://algorithms.discrete.ma.tum.de/flow/ford-fulkerson/ (Accessed: 7 July 2024).</em></strong>
+<strong><em>[5] Technische Universität München. (n.d.). *Ford-Fulkerson Algorithm*. Available at: https://algorithms.discrete.ma.tum.de/flow/ford-fulkerson/ (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[6] Gbadebo, G. (2023). *An Exploration of Algorithmic Solutions in E-commerce*. Available at: http://journal.edit4journal.com/2536/1/Gbadebo1642023AJRCOS110427.pdf (Accessed: 7 July 2024).</em></strong>
+<strong><em>[6] Gbadebo, G. (2023). *An Exploration of Algorithmic Solutions in E-commerce*. Available at: http://journal.edit4journal.com/2536/1/Gbadebo1642023AJRCOS110427.pdf (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[7] GoMage. (2024). *Architecture of eCommerce*. Available at: https://www.gomage.com/blog/architecture-of-ecommerce/ (Accessed: 7 July 2024).</em></strong>
+<strong><em>[7] GoMage. (2024). *Architecture of eCommerce*. Available at: https://www.gomage.com/blog/architecture-of-ecommerce/ (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[8] Diagramming AI. (n.d.). Diagramming AI. Available at: https://diagrammingai.com/</em></strong>
+<strong><em>[8] Diagramming AI. (n.d.). Diagramming AI. Available at: https://diagrammingai.com/</em></strong><br> <br>
 
-<strong><em>[9] Wikipedia contributors. (2023). *AVL tree*. Available at: https://en.wikipedia.org/wiki/AVL_tree (Accessed: 7 July 2024).</em></strong>
+<strong><em>[9] Wikipedia contributors. (2023). *AVL tree*. Available at: https://en.wikipedia.org/wiki/AVL_tree (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[10] CP-Algorithms. (n.d.). *Segment Tree*. Available at: https://cp-algorithms.com/data_structures/segment_tree.html (Accessed: 7 July 2024).</em></strong>
+<strong><em>[10] CP-Algorithms. (n.d.). *Segment Tree*. Available at: https://cp-algorithms.com/data_structures/segment_tree.html (Accessed: 7 July 2024).</em></strong><br> <br>
 
-<strong><em>[11] Search Engine Journal. (n.d.). *Must-Have Features for Your eCommerce Website*. Available at: https://www.searchenginejournal.com/ecommerce-guide/must-have-website-features (Accessed: 7 July 2024).</em></strong>
+<strong><em>[11] Search Engine Journal. (n.d.). *Must-Have Features for Your eCommerce Website*. Available at: https://www.searchenginejournal.com/ecommerce-guide/must-have-website-features (Accessed: 7 July 2024).</em></strong><br> <br>
 
 <strong><em>[12] CP-Algorithms. (n.d.). *Maximum flow - Ford-Fulkerson and Edmonds-Karp*. Available at: https://cp-algorithms.com/graph/edmonds_karp.html (Accessed: 7 July 2024).</em></strong>
 
